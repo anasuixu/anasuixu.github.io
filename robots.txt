@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://anasuixu.github.io/sitemap_index.anasuixu
